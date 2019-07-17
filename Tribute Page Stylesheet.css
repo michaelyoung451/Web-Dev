@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: linen;
+}
+
+#image {
+  max-width: 300px;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#img-div {
+  display: block;
+  justify-content: center;
+}
+p {
+  Max-width: 50%;
+  margin: auto;
+}
