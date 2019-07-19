@@ -1,0 +1,52 @@
+@media {}
+#navbar {
+  position: fixed;
+  min-width: 300px;
+  top: 0px;
+  left: 0px;
+  float: left;
+}
+#navbar header {
+  font-weight: bold;
+  margin: 15px;
+  
+}
+nav-link {
+  position: relative;
+  display: flex;
+  background-color: linen;
+}
+#navbar a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  padding: 11%;
+  background-color: linen;
+}
+#navbar ul {
+  height: 88%;
+  width: 290px;
+  list-style: none;
+  padding: 0px;
+}
+#navbar li {
+  position:relative;
+  border: 1px solid black;
+  font-size: 20px;
+  text-align: center;
+}
+#main-doc{
+  position: absolute;
+  margin-left: 300px;
+  
+}
+main {
+  margin-top: 30px;
+}
+header {
+  font-size: 30px;
+  font-family: Arial, Sans-serif;
+}
+.main-section {
+  max-width: 1000px;
+}
